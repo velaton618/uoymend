@@ -1,0 +1,4 @@
+**/*.session
+**/*.png
+**/node_modules
+**/*.env
